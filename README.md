@@ -1,0 +1,4 @@
+- 👋 Hi, I’m ArtemONGO
+- 👀 I’m interested in Unity
+- 🌱 I’m currently learning Python, C#
+- 📫 t.me/artemon_go
