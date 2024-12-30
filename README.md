@@ -1,4 +1,3 @@
 - 👋 Hi, I’m ArtemONGO
-- 👀 I’m interested in Unity
-- 🌱 I’m currently learning Python, C#
+- 🌱 I’m HoI4 mod developer
 - 📫 t.me/artemon_go
